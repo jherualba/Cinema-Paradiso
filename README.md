@@ -1,8 +1,8 @@
 
-# Cinematic Paradiso
+# Cinema Paradiso
 
 ```
-Cinematic Paradiso App, with a frontend built in React & Redux and a backend built in Django API.
+Cinema Paradiso App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
